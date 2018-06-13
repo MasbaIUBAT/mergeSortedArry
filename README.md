@@ -1,0 +1,2 @@
+# mergeSortedArry
+mergeSortedArry using javascript
